@@ -8,5 +8,5 @@ print('resultado=', c)
 ## cambiado el factor 110 según junta control
 ## cambio a factor 200 por directorio nuevo
 
-d = c * 110
+d = c * 200
 print('resultado total=', d)
