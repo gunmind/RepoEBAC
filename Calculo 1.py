@@ -6,6 +6,7 @@ print('resultado=', c)
 
 ## cambiado el factor 102 según requerimiento del negocio
 ## cambiado el factor 110 según junta control
+## cambio a factor 200 por directorio nuevo
 
 d = c * 110
 print('resultado total=', d)
